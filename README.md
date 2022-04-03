@@ -1,5 +1,4 @@
 
-# This page is about my textscram project. [main page here](../../index.html)
 ### Note, this only works on Gnu/Linux. And in theory other Unix like operations systems.
 </div>
 
