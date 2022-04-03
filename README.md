@@ -1,12 +1,4 @@
-<html lang="en">
-    <head>
-        <title> Text scram </title>
-        <link rel='stylesheet' type='text/css' href="style.css">
-        <meta charset="utf-8">
 
-    <link rel = "icon" href = "../../pix/image/photosynthesis.png" type = "image/x-icon">
-    </head>
-<div align="center">
 # This page is about my textscram project. [main page here](../../index.html)
 ### Note, this only works on Gnu/Linux. And in theory other Unix like operations systems.
 </div>
