@@ -19,11 +19,8 @@ Like if I had abc and the user defined way to change it was zfp, abc would be zf
 # Let me show you what it does.
 
 
-![](../../pix/image/textscram1.png)
-
 In this first step I show the contents of the file that I end up converting, titled input.txt
 
-![](../../pix/image/textscram2.png)
 
 <space><space><space><space><space><space>
 In this second step I show the prompt and the command I used.
@@ -40,16 +37,12 @@ the key will be the first 26 chars read from the file.
 
 
 
-![](../../pix/image/textscram3.png)
-
 Here I am showing the what happens at the end and that the input file is 702 bytes.\ 
 (This program works on larger files but a lot slower)
 
-![](../../pix/image/textscram4.png)
 
 In this image I show that the files have the same number of spacing, capitals, lowercase letters and punctuation.\ 
 
-![](../../pix/image/textscram5.png)
 
 In this last image, I show you the decoding process and the contents of all three files.
 
