@@ -1,1 +1,1 @@
-[[How to use][https://chairmail.net/Programing/C-Projects/textscram.html]]
+[[https://chairmail.net/Programing/C-Projects/textscram.html][How to use]]
